@@ -17,6 +17,8 @@
 }
 .product:hover {
   transform: scale(1.05);
+  box-shadow: 5px 13px 40px 13px; 
+ color: rgb(48, 71, 145);
 }
 
 .product > img {
